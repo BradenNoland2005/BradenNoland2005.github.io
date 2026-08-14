@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
 }
+
 body {
     margin: 0px;
-    font-family: "Poppins", serif;
+    font-family: sans-serif;
 }
