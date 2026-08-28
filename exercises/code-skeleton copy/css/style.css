@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#p1 {
+    color: white;
+}
+
+#s1 {
+    background-color: darkred;
+}
+
+#s2 {
+    background-color: red;
+}
+
+#s3 {
+    background-color: lightcoral;
+}
+
+#p2 {
+    color: darkred;
+}
+
+#s4 {
+    background-color: darkorange;
+}
+
+#s5 {
+    background-color: orange;
+}
+
+#s6 {
+    background-color: lightsalmon;
+}
+
+#p3 {
+    color: darkred;
+}
+
+#s7 {
+    background-color: darkgoldenrod;
+}
+
+#s8 {
+    background-color: goldenrod;
+}
+
+#s9 {
+    background-color: lightgoldenrodyellow;
+}
