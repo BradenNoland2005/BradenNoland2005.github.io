@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#s1 {
+    color: green;
+}
+
+#s2 {
+    color: #F711F7;
+}
+
+#s3 {
+    color: red;
+}
+
+#s4 {
+    color: goldenrod;
+}
+
+#s5 {
+    color: blue;
+}
+
+#s6 {
+    background-color: skyblue;
+}
+
+#s7 {
+    background-color: yellow;
+}
+
+#s8 {
+    font-weight: bold;
+}
+
+#s9 {
+    font-style: italic;
+}
+
+#s10 {
+    text-decoration: underline;
+}
+
+#s11 {
+    font-size: 36px;
+}
