@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.colum1 {
+    background-color: skyblue;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 24px auto;
+    padding: 24px;
+}
+
+.colum2 {
+    background-color: lightgoldenrodyellow;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 24px auto;
+    padding: 24px;
+}
+
+.colum3 {
+    background-color: lightcoral;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 24px auto;
+    padding: 24px;
+}
+
+.head1 {
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+.head2 {
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+.head2 {
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+.primnary1 {
+    text-decoration: none;
+    color: white;
+    background-color: darkblue;
+    padding: 12px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.second1 {
+    text-decoration: none;
+    color: white;
+    background-color: darkblue;
+    padding: 12px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.primnary2 {
+    text-decoration: none;
+    color: white;
+    background-color: darkgoldenrod;
+    padding: 12px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.second2 {
+    text-decoration: none;
+    color: white;
+    background-color: darkgoldenrod;
+    padding: 12px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.primnary3 {
+    text-decoration: none;
+    color: white;
+    background-color:darkred;
+    padding: 12px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.second3 {
+    text-decoration: none;
+    color: white;
+    background-color: darkred;
+    padding: 12px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
