@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#layout {
+    max-width: 1200px;
+    margin: 48px auto;
+    display: flex;
+}
+
+#thumbnail-colum {
+    flex: 1;
+}
+
+#featured-image-colum {
+    flex: 2;
+}
+
+#product-info-colum {
+    flex: 3;
+}
+
+.head1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.user {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.info {
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.price {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.button {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.click1 {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(81, 154, 250);
+    padding: 20px;
+    border-radius: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    width: 119px;
+}
+
+.click2 {
+    text-decoration: none;
+    color:  rgb(81, 154, 250); 
+    border-color: rgb(81, 154, 250);
+    padding: 20px;
+    border-radius: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    width: 119px;
+}
+
+.click3 {
+    text-decoration: none;
+    color:  rgb(81, 154, 250); 
+    border-color: rgb(81, 154, 250);
+    padding: 20px;
+    border-radius: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    width: 119px;
+}
