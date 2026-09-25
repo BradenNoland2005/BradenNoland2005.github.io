@@ -37,18 +37,12 @@ body {
 
 .info {
     font-size: 15px;
-    text-decoration: underline;
+    color: black;
 }
 
 .price {
     font-size: 40px;
     font-weight: bold;
-}
-
-.button {
-    text-decoration: none;
-    color: black;
-    display: inline-block;
 }
 
 .click1 {
@@ -57,29 +51,29 @@ body {
     background-color: rgb(81, 154, 250);
     padding: 20px;
     border-radius: 100px;
+    display: block;
     font-size: 40px;
     font-weight: bold;
-    width: 119px;
 }
 
 .click2 {
     text-decoration: none;
     color:  rgb(81, 154, 250); 
-    border-color: rgb(81, 154, 250);
+    border: 3px solid rgb(81, 154, 250);
     padding: 20px;
     border-radius: 100px;
+    display: block;
     font-size: 40px;
     font-weight: bold;
-    width: 119px;
 }
 
 .click3 {
     text-decoration: none;
     color:  rgb(81, 154, 250); 
-    border-color: rgb(81, 154, 250);
+    border: 3px solid rgb(81, 154, 250);
     padding: 20px;
     border-radius: 100px;
+    display: block;
     font-size: 40px;
     font-weight: bold;
-    width: 119px;
 }
