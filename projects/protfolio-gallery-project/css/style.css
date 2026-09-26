@@ -5,6 +5,7 @@
 body {
     margin: 0px;
     font-family: sans-serif;
+    background: black;
 }
 
 #navbar {
@@ -62,4 +63,60 @@ body {
     max-width: 800px;
     margin: 48px auto;
     text-align: center;
+    background: black;
+}
+
+.horizontal-masonry-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    background: black;
+}
+
+.horizontal-masonry-gallery img {
+    height: 250px;
+    flex: 1;
+    object-fit: cover;
+    background: black;
+}
+
+
+#card-section {
+    background: linear-gradient(to bottom, darkblue, #0d002b);
+    color: white;
+    padding: 50px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1;
+    border: 3px solid white;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.card h3 {
+    font-size: 36px;
+    margin: 0px;
+}
+
+.card a {
+    font-size: 24px;
+    margin: 24px 0px 0px;
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    #navbar {
+        align-items: center;
+        flex-direction: column;
+    }    
+    .card-container {
+        flex-direction: column;
+    }
 }
